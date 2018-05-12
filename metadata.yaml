@@ -25,6 +25,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28341#Da-terra---luaviagem-directa-em-97-horas-e-20-minutos
 gutenberg_issued: '2009-03-16'
 gutenberg_type: Text
 identifiers:
